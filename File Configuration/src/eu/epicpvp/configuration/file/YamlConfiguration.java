@@ -1,4 +1,4 @@
-package dev.wolveringer.configuration.file;
+package eu.epicpvp.configuration.file;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -15,9 +15,9 @@ import org.yaml.snakeyaml.representer.Representer;
 
 import com.google.common.io.Files;
 
-import dev.wolveringer.configuration.Configuration;
-import dev.wolveringer.configuration.ConfigurationSection;
-import dev.wolveringer.configuration.InvalidConfigurationException;
+import eu.epicpvp.configuration.Configuration;
+import eu.epicpvp.configuration.ConfigurationSection;
+import eu.epicpvp.configuration.InvalidConfigurationException;
 
 /**
  * An implementation of {@link Configuration} which saves all files in Yaml.

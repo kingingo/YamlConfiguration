@@ -1,4 +1,4 @@
-package dev.wolveringer.configuration.serialization;
+package eu.epicpvp.configuration.serialization;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 
 import org.apache.commons.lang3.Validate;
 
-import dev.wolveringer.configuration.Configuration;
+import eu.epicpvp.configuration.Configuration;
 
 /**
  * Utility class for storing and retrieving classes for {@link Configuration}.

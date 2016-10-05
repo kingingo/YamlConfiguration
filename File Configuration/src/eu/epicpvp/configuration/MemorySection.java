@@ -1,4 +1,4 @@
-package dev.wolveringer.configuration;
+package eu.epicpvp.configuration;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;

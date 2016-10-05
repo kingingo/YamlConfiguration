@@ -1,4 +1,4 @@
-package dev.wolveringer.configuration.file;
+package eu.epicpvp.configuration.file;
 
 import org.apache.commons.lang3.Validate;
 

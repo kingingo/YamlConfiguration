@@ -1,4 +1,4 @@
-package dev.wolveringer.configuration.file;
+package eu.epicpvp.configuration.file;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -18,9 +18,9 @@ import com.google.common.io.Files;
 import org.apache.commons.lang3.Validate;
 import org.yaml.snakeyaml.external.biz.base64Coder.Base64Coder;
 
-import dev.wolveringer.configuration.Configuration;
-import dev.wolveringer.configuration.InvalidConfigurationException;
-import dev.wolveringer.configuration.MemoryConfiguration;
+import eu.epicpvp.configuration.Configuration;
+import eu.epicpvp.configuration.InvalidConfigurationException;
+import eu.epicpvp.configuration.MemoryConfiguration;
 
 /**
  * This is a base class for all File based implementations of {@link

@@ -1,4 +1,4 @@
-package dev.wolveringer.configuration.serialization;
+package eu.epicpvp.configuration.serialization;
 
 import java.util.Map;
 

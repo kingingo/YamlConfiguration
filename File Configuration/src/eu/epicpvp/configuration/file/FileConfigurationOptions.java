@@ -1,7 +1,7 @@
-package dev.wolveringer.configuration.file;
+package eu.epicpvp.configuration.file;
 
-import dev.wolveringer.configuration.MemoryConfiguration;
-import dev.wolveringer.configuration.MemoryConfigurationOptions;
+import eu.epicpvp.configuration.MemoryConfiguration;
+import eu.epicpvp.configuration.MemoryConfigurationOptions;
 
 /**
  * Various settings for controlling the input and output of a {@link

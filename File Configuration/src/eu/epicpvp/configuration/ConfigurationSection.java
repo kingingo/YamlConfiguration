@@ -1,4 +1,4 @@
-package dev.wolveringer.configuration;
+package eu.epicpvp.configuration;
 
 import java.awt.Color;
 import java.util.List;

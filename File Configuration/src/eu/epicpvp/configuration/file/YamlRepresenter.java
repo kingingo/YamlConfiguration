@@ -1,4 +1,4 @@
-package dev.wolveringer.configuration.file;
+package eu.epicpvp.configuration.file;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
@@ -6,9 +6,9 @@ import java.util.Map;
 import org.yaml.snakeyaml.nodes.Node;
 import org.yaml.snakeyaml.representer.Representer;
 
-import dev.wolveringer.configuration.ConfigurationSection;
-import dev.wolveringer.configuration.serialization.ConfigurationSerializable;
-import dev.wolveringer.configuration.serialization.ConfigurationSerialization;
+import eu.epicpvp.configuration.ConfigurationSection;
+import eu.epicpvp.configuration.serialization.ConfigurationSerializable;
+import eu.epicpvp.configuration.serialization.ConfigurationSerialization;
 
 public class YamlRepresenter extends Representer {
 

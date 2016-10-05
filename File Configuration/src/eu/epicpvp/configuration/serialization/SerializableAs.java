@@ -1,4 +1,4 @@
-package dev.wolveringer.configuration.serialization;
+package eu.epicpvp.configuration.serialization;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;
